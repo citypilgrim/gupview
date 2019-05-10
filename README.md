@@ -10,13 +10,15 @@ This code is written with the specific intention of counting the net flouroscenc
 This code is written with the specific intention of viewing the cross sectional intensity profile from the camera, the cross section locations are depicted by the lines in the colour map plot (see below).
 
 # Packages Required
+
 1. numpy
 2. scipy
 3. matplotlib
-4. PIL
+4. PIL; main image processing tool
 5. cv2; only for applying colour map in /Gupview/Secondary_Scripts/Plots
 6. tkinter/Tkinter for python3/2
 7. ast
+8. pymba; package by morefigs which talks to the camera
 
 # Additional Notes
 
